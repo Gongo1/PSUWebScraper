@@ -5,11 +5,11 @@ Web Scraper to pull public information on all majors across PSU campus's
 Python 2.7
 
 ## Packages
-import requests
-import pandas as pd
-import names
-import re
-import urllib2
-import os
-import cPickle as pickle
-import time
+* requests
+* pandas as pd
+* names
+* re
+* urllib2
+* os
+* cPickle as pickle
+* time
